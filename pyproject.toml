@@ -3,9 +3,9 @@ name = "bad_gaussians"
 version = "1.0.3"
 
 dependencies=[
-    "nerfstudio>=1.0.3",
+    "nerfstudio",
     "pypose",
-    "gsplat>=0.1.11,<1.0.0"
+    "gsplat"
 ]
 
 # black
